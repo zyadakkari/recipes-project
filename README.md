@@ -1,2 +1,2 @@
 # recipes-project
-# This is a html website that hosts several of my favourite recipes
+# HTML website hosting favourite recipes to become comfortable with basic HTML structure
